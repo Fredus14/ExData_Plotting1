@@ -15,7 +15,7 @@ plot4 <- function(){
         
         #Check if tidy data has been created and run script to create it if not
         if (!file.exists("data/tidy.rds")){
-                source("scripts/prep_data.R")
+                source("prep_data.R")
         }
         
         #loads tidy data to be used to make plot
