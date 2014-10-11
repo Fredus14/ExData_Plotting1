@@ -7,6 +7,10 @@
 #    using the data organized by the prep_data.R script. It will save the plot in 
 #    the plots directory (created if necessary).
 #
+#    ****************************IMPORTANT*************************************
+#       If prep_data.R has not yet been run in your computer, this file must
+#       be in the working directory for this function to work.
+#    **************************************************************************
 #########################################################################################################################
 
 # Make plot 3

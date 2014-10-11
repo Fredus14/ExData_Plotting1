@@ -9,7 +9,7 @@
 #    if this has not been done before
 #   
 #    To run this script use the following comand:
-#    source("scripts/prep_data")
+#    source("prep_data")
 #
 #########################################################################################################################
 
