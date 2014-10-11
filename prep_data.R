@@ -8,8 +8,8 @@
 #    then load and prepare the data for making the plots for the assignment of project 1
 #    if this has not been done before
 #   
-#    To run this script use the following comand:
-#    source("prep_data")
+#    To run this script use the following command:
+#    source("prep_data.R")
 #
 #########################################################################################################################
 
